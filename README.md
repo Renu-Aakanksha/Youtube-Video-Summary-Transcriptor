@@ -2,8 +2,6 @@
 
 <p>YouTube Transcript Summarizer is a Chrome Extension that simplifies the process of summarizing transcripts from YouTube videos using advanced Natural Language Processing (NLP) techniques. It offers both extractive and abstractive summarization methods to provide concise summaries tailored to your needs.</p>
 
-<img src="/extention/images/stages.png?raw=true" alt="Project Overview">
-
 <h2>Features</h2>
 
 <ul>
